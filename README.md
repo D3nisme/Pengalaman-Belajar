@@ -8,3 +8,8 @@ Belajar kelas "Belajar Dasar Structured Query Language (SQL). (Progress 34%)
 Belajar kelas "Belajar Dasar Structured Query Language (SQL). (Progress 64%)
 * Belajar Pengenalan Structured Query Language
 * Belajar Basic Query
+
+**20 Juni 2021**  
+Belajar kelas "Belajar Dasar Structured Query Language (SQL). (Progres 100%)
+* Berlatih dengan membuat basis data pada DBSQLITE.
+* Mengerjakan ujian akhir untuk menilai kemahiran diri.
